@@ -1,7 +1,7 @@
 # eVoteAU
 Electronic voting needs to be a reality. 
 
-<!-- User experience -->
+<h2> User experience </h2>
 
 
 User authenticates to MyGov with MFA.
