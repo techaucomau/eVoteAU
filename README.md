@@ -18,3 +18,5 @@ User votes, then vote status is updated to voted and can no longer vote in this 
 Vote selection is seperated from voter, potentially hashing GovID and hash only being reversible by complex combination of auth. Maybe dual MFA from auth personnel from AEC audit.
 
 Voter's device ID, model etc date/time are logged and shown to user along with 
+
+Donkey vote eliminated.
