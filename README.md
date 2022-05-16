@@ -20,6 +20,7 @@ Electronic voting needs to be a reality.
   <li>Authentication</li>
   <li>Remove voter details from vote selection</li>
   <li>Log submission details for audit</li>
+  <li>Scalability</li>
 </ul>
 
 <h2> User experience </h2>
@@ -56,3 +57,8 @@ This means the AEC never get to see the username and details of the person who s
 
 <H2>Logging and Audits</H2>
 The details of a vote submission would be logged to an external system. Only strict access would be provided to authorised personnel and when accessed (read-only) would also be automatically published to a public website for the world to see. 
+
+<H2>Scalability and timing </H2>
+To address the challenge of ensuring high availability of the service, particularly during peak times, such as when the voting window opens, the service would need to be overscaled. Far too often we've seen Government systems fail under load as the volume of traffic exceeds expections. 
+
+To assist with reducing peak loads, the time window in which votes can be cast should be examined. Right now, the window of time to vote by postel voting is 2 weeks, but has been as much as 3 weeks out from the election date. Having a similar window for electronic voting will enable users to access the system over a longer period of time, rather than concentrating it on one individual day, exposing the system to what is effectively an engineered DDOS attack.  
