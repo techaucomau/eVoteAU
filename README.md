@@ -49,7 +49,7 @@ It is important that the Vote selection is seperated from voter.
 
 To achieve this, once the authentication with MyGov, and the election is selected, the user's GovID username is converted to a hash and never shared with the AEC. 
 
-Example (SHA512): H234235235 becomes 6392D1643684237C5810D410F11B74DA9F4F346FFCAE571EC7C2459D24A907DC69AE429C1B5E42AB608A87B671CBB0EEC19C78EB70A4249AD850EAD1629DC08F
+Example: (SHA512): H234235235 becomes 6392D1643684237C5810D410F11B74DA9F4F346FFCAE571EC7C2459D24A907DC69AE429C1B5E42AB608A87B671CBB0EEC19C78EB70A4249AD850EAD1629DC08F
 
 As you cast your vote, the vote selection is registered against the hash to verify uniqueness, segmenting the private information about who is voting, with the details. 
 
