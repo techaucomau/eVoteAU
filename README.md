@@ -62,3 +62,5 @@ The details of a vote submission would be logged to an external system. Only str
 To address the challenge of ensuring high availability of the service, particularly during peak times, such as when the voting window opens, the service would need to be overscaled. Far too often we've seen Government systems fail under load as the volume of traffic exceeds expections. 
 
 To assist with reducing peak loads, the time window in which votes can be cast should be examined. Right now, the window of time to vote by postel voting is 2 weeks, but has been as much as 3 weeks out from the election date. Having a similar window for electronic voting will enable users to access the system over a longer period of time, rather than concentrating it on one individual day, exposing the system to what is effectively an engineered DDOS attack.  
+
+Promotion of creating your MyGov account for those over the voting age of 18 could occur weeks or even months ahead of the voting window. Advertising efforts should be tailored to address the volume of voters who are not yet registered versus the time remaining. 
