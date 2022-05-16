@@ -27,7 +27,9 @@ Electronic voting needs to be a reality.
 
 Users of eVoteAU would be able to vote online, via the web or mobile app. 
 
-To authenticate a user, a user would first sign into the MyGov app/site. 
+To authenticate a user, a user would first sign into the MyGov app/site. In 2018, there were 14.4 million myGov accounts, now 4 years later, that number is expected to have grown substantially [<a href="https://www.zdnet.com/article/14-million-australians-now-have-a-mygov-account/">Source</a>]. 
+
+There are more than a dozen other Government services connected using this authentication platform, including ATO, Centrelink, Australian JobSearch, My Health Record, My Aged Care, Child Support, Department of Veterans Affairs, NDIS and more. 
 
 From here, the user is able to connect their MyGov to AEC / creating an account, similar to how ATO, Medicare, ServicesAustralia oauth system works today. 
 
