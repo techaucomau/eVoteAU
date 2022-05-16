@@ -3,20 +3,24 @@ Electronic voting needs to be a reality.
 
 // Developed by Jason Cartwright (@techAU)<br/>
 // Last updated 16/5/22 <br/>
-// Version 0.2
+// Version 0.2.1
 
 <h2>Positives</h2>
-Increased convenience for submissions 
-Lower ongoing costs, reduction of AEC staff
-Elimination of millions paper votes, cardboard booths etc 
-Instant results
-Eliminate donkey votes
-Eliminate multi-votes
+<ul>
+  <li>Increased convenience for submissions </li>
+  <li>Lower ongoing costs, reduction of AEC staff</li>
+  <li>Elimination of millions paper votes, cardboard booths etc </li>
+  <li>Instant results</li>
+  <li>Eliminate donkey votes</li>
+  <li>Eliminate multi-votes</li>
+</ul>
 
 <h2>Challenges</h2>
-Authentication
-Remove voter details from vote selection
-Log submission details for audit
+<ul>
+  <li>Authentication</li>
+  <li>Remove voter details from vote selection</li>
+  <li>Log submission details for audit</li>
+</ul>
 
 <h2> User experience </h2>
 
